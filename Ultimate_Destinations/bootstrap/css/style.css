@@ -8,6 +8,16 @@ body{
 .btn{
     border-radius: 50px;
 }
+.btn-custom{
+    background:linear-gradient(45deg,lightcoral,orange);
+    color: whitesmoke;
+}
+.btn-custom:hover{
+    background: linear-gradient(45deg,lime,orange);
+}
+.text-custom{
+    color: rgb(243,151,27);
+}
 /* ----------------- Navbar -------------- */
 .navbar{
     padding: 25px 0 !important;
